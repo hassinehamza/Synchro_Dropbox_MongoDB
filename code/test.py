@@ -71,6 +71,7 @@ def deleteNomDefini(folder):
 	
 
 
+	
 #boucle qui s'excute chaque une minute pour synchroniser les fichiers ( DropBx / BD )
 while True :
 	ajouter(chemin)
